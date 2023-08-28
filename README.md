@@ -10,7 +10,6 @@ Languages/Technologies that I'm familiar with:
 - Django Rest Frameworks
 - Rest API
 - Docker
-- aws server
 - vps server
 
 Languages / Frameworks that I'm still learning about:
