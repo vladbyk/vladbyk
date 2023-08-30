@@ -9,8 +9,10 @@ Languages/Technologies that I'm familiar with:
 - Linux Shell
 - Django Rest Frameworks
 - Rest API
-- Docker
+- Docker, docker-compose
 - vps server
+- celery
+- redis
 
 Languages / Frameworks that I'm still learning about:
 
