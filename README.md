@@ -13,10 +13,10 @@ Languages/Technologies that I'm familiar with:
 - vps server
 - celery
 - redis
+- nginx
+- gunicorn, uvicorn, daphne
 
 Languages / Frameworks that I'm still learning about:
 
 - C / C++ 
 - Java
-- Nginx
-- Unicorn engine
